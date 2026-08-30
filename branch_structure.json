@@ -1,0 +1,18 @@
+{
+  "default_branch": "testnet-implementation",
+  "branches": [
+    "doose-wayo",
+    "origin",
+    "testnet-implementation"
+  ],
+  "parent": {
+    "doose-wayo": "testnet-implementation",
+    "origin": "testnet-implementation",
+    "testnet-implementation": null
+  },
+  "order": [
+    "testnet-implementation",
+    "doose-wayo",
+    "origin"
+  ]
+}
